@@ -1,0 +1,49 @@
+﻿<!DOCTYPE HTML>
+<HTML LANG="PT-BR">
+<HEAD>
+  <TITLE>Elon musk </TITLE>
+</HEAD>
+
+<BODY>
+<H1>CEO da Tesla</H1>
+<HR>
+
+<H2>UM POUCO SOBRE ELON MUSK</H2>
+<IMG SRC="IMG3.PNG"  WIDTH="530PX" HEIGHT="300PX">
+<BR>
+ 
+<P> Elon Musk é conhecido como um dos empreendedores mais ousados dos últimos tempos, pois viabilizou projetos fortemente tecnológicos e inovadores. Entre as empresas que fundou ou comandou aparecem nomes como Paypal, Tesla, SpaceX e Neuralink.
+
+A sua trajetória também chama a atenção pela diversidade de áreas de atuação; geolocalização, energia limpa, mobilidade, exploração espacial, inteligência artificial e neurociência.</P>
+<HR>
+<H2>CONQUISTAS DO ELON MUSK</H2>
+
+<IMG SRC="IMG12.JPG" WIDTH="530PX" HEIGHT="300PX">
+<br>
+ 
+<BR>
+<P>Em 7 de janeiro de 2021, ele se tornou a pessoa mais rica do mundo, com o patrimônio de US$188,5 bilhões de dólares. Em 20 de julho de 2022, a fortuna de Elon Musk é de US$ 219 bilhões, segundo a Bloomberg, permanecendo no primeiro lugar do ranking.</P>
+
+<HR>
+<H2>INFANCIA DE ELON MUSK</H2>
+<IMG SRC="IMG13.JPG" WIDTH="530PX" HEIGHT="300PX">
+<BR>
+<P> Elon Musk nasceu em 29 de junho de 1971, em Pretória, na África do sul. Ele é um dos três filhos do casal Errol e Maye Musk. 
+
+A família sempre teve ótimas condições de vida: sua mãe era modelo e nutricionista e o pai engenheiro, piloto de aviões e dono de metade de uma mina de esmeraldas. Quando tinha 8 anos, seus pais se separaram e Elon foi o único dos três filhos que ficou com o pai. 
+
+Morando com o pai, Elon teve os primeiros contatos com a engenharia e conceitos da profissão. O pai teria sido uma das primeiras influências que levariam sua carreira aos rumos atuais. No entanto, a relação entre pai e filho não era das melhores. Em diversas entrevistas, Elon Musk descreve traumas causados pela relação abusiva que tinha com ele.
+
+Se não bastasse os abusos do pai, fora de casa Elon Musk também sofria bastante com bullying. Passava pelas agressões e xingamentos devido às suas paixões por livros como Senhor dos Anéis, Guia do Mochileiro das Galáxias e Série de fundações, de Isaac Asimov, que gerou para ele uma grande lição: 
+
+“Você deve tentar tomar o conjunto de ações que provavelmente prolongaram a civilização, minimizam a probabilidade de uma idade das trevas e reduzirão o tamanho de uma era das trevas se houver uma” 
+
+Ele seguiu exatamente essa ideia quando adulto, como já mencionamos nos seus objetivos. 
+
+Ainda na infância deu os primeiros passos na programação, escrevendo um código de videogame baseado em BASIC logo aos 12 anos para uma revista chamada PC and Office Technology por cerca de 500 dólares. 
+
+O prodígio começava a dar seus primeiros passos, mas sabia que seu caminho seria longe de casa. </P>
+
+
+</BODY>
+</HTML>
